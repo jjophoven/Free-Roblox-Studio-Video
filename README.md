@@ -1,6 +1,6 @@
 Don't want to pay **1000 Robux** per video? Want to upload more than **3 Videos in 30 days**? 
 
-This repository enables anyone to create **unlimited** amount of videos for **FREE**!
+This repository enables anyone to create **unlimited** amount of videos for **FREE** by using spritesheets of video frames!
 
 ## Setup
 
